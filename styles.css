@@ -1,0 +1,145 @@
+body{
+   background-color: rgb(219, 255, 243);
+   font-family: 'Rubik', sans-serif;
+}
+
+p{
+    color: #cdbfff;
+}
+
+.container-fluid{
+    padding: 10% 25%;
+}
+
+.big-box{
+    background-color: #ffff;
+    border-radius: 30px;
+}
+ 
+/* left hand */
+
+.image-container{
+    border-radius: 30px;
+    background-color: #4835f1;
+    text-align: center;
+    color: #ffff;
+    padding: 4%;
+}
+
+.curcle{
+    border-radius: 100%;
+    background-color: #462cde;
+    width: 10rem;
+    height: 10rem;
+    margin: 0 25%;
+    padding: 2rem;
+}
+
+.curcle-76{
+    font-weight: 400;
+    font-size: 4rem;
+}
+
+.curcle-all{
+    width: 9rem;
+    height: 7rem;
+    padding-right: 2.3rem;
+}
+
+.left-header{
+    margin: 2rem;
+    color: #cdbfff;
+}
+
+.left-header-2{
+    margin: 2rem 0 0.74rem 0;
+}
+
+.left-con{
+    color: #cdbfff;
+    padding: 0 2rem 2rem 2rem;
+}
+
+
+/* Right-hand */
+
+.text-container{
+    padding: 4%;
+}
+
+.right-header{
+    margin: 2rem;
+}
+
+.right-rows-1,.right-rows-2,.right-rows-3,.right-rows-4{
+    margin: 1rem;
+    border-radius: 12px;
+    padding: 1rem;
+    position: relative;
+}
+
+.right-rows-1{
+    background-color: #ffcaca;
+    color: rgb(212, 3, 3);
+}
+
+.right-rows-2{
+    background-color: #fff7d1;
+    color: rgb(182, 165, 14);
+}
+
+.right-rows-3{
+    background-color: #e1ffdd;
+    color: rgb(31, 163, 31);
+}
+
+.right-rows-4{
+    background-color: #dad3ff;
+    color: #1f01ca;
+}
+
+.td{
+    display: inline-block;
+    text-align: right;
+    color: black;
+    position: absolute;
+    right: 1rem;
+}
+
+/* button */
+
+.btn {
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    background: #303b59;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 1rem;
+  }
+  
+  .btn:hover {
+    background: #553bf7;
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+/* 
+font-family: 'Assistant', sans-serif;
+font-family: 'Fraunces', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Ubuntu', sans-serif;
+*/
